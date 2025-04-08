@@ -3,7 +3,6 @@ __CONFIG _CP_OFF & _WDT_OFF & _PWRTE_ON & _XT_OSC
 LIST P=16F84A
 INCLUDE <P16F84A.INC>
 
-
 ORG 0
 
 Inicio 					;Configurar los pines de entrada y salida
